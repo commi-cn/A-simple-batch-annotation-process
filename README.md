@@ -25,4 +25,7 @@ Install parallel
 
     conda install -c bioconda -c conda-forge eggnog-mapper
 
+## Usage
+See [example.sh](docs/example.sh) for details.
 
+# Reference
